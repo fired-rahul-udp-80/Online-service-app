@@ -54,16 +54,16 @@ export default function Footer() {
         </div>
         <ul className="flex items-start justify-start w-full gap-x-3">
                 <li>
-                    <a href="#" className="text-3xl hover:opacity-80 duration-200"><FaSquareFacebook /></a>
+                    <a href="*" className="text-3xl hover:opacity-80 duration-200"><FaSquareFacebook /></a>
                 </li>
                 <li>
-                    <a href="#" className="text-3xl hover:opacity-80 duration-200"><FaInstagram /></a>
+                    <a href="*" className="text-3xl hover:opacity-80 duration-200"><FaInstagram /></a>
                 </li>
                 <li>
-                    <a href="#" className="text-3xl hover:opacity-80 duration-200"><FaTwitter/></a>
+                    <a href="*" className="text-3xl hover:opacity-80 duration-200"><FaTwitter/></a>
                 </li>
                 <li>
-                    <a href="#" className="text-3xl hover:opacity-80 duration-200"><FaWhatsapp/></a>
+                    <a href="*" className="text-3xl hover:opacity-80 duration-200"><FaWhatsapp/></a>
                 </li>
             </ul>
             <div className="w-full border-t-[1px] border-darkBlueColor flex gap-x-1 font-extrabold items-center justify-center py-5">
