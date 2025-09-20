@@ -12,6 +12,7 @@ export default function AppContextProvider({children}){
     const value = {
         // Add your context values here
         navbar,
+        setNavbar
     }
 
 

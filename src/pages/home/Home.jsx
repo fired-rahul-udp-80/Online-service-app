@@ -8,7 +8,7 @@ import Shopping from './shopping/Shopping'
 import MachineService from './MachineService'
 import VehicleService from './VehicleService'
 import DoctorService from './DoctorService'
-import Review from './Review'
+
 import Footer from '../../components/Footer'
 import Owner from './Owner'
 
@@ -80,9 +80,7 @@ function Home() {
     <div className="flex flex-col items-center w-full">
         <DoctorService/>
     </div>
-    {/* <div className="flex flex-col items-center w-full ">
-        <Review/>
-    </div> */}
+   
     <div className="mt-20 template3 flex flex-col items-center w-full ">
         <Owner/>
     </div>
